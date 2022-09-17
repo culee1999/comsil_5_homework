@@ -15,6 +15,5 @@ int multiply(int x, int y) {
 int main(void) {
 	int A = 10, B = 5;
 	printf("%d\n", add(A, B));
-	
 	return 0;
 }
