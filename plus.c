@@ -16,6 +16,10 @@ int divide(int x, int y) {
 	return x / y;
 }
 
+
+
+
+
 int main(void) {
 	int A = 10, B = 5;
 	printf("%d\n", add(A, B));
